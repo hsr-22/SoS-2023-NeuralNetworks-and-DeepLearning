@@ -1,2 +1,5 @@
-# SoS-2023-NeuralNetworks-and-DeepLearning
-Summer of Science (SoS) organized by MnP, IIT Bombay
+# NeuralNetworks-and-DeepLearning
+This is the repository for the 2023 Summer of Science (SoS) Project "Neural Networks and Deep Learning".
+
+## Mentor
+- Krisha Shah
